@@ -1,7 +1,7 @@
 body
 {background-color: white;
 width: 100%;}
-main{padding-left: 90px;}
+main{padding-left: 50px;}
 
 ul{list-style: none;}
 li {font-family: Noto Sans JP;}
@@ -40,9 +40,9 @@ height: 50px;
 vertical-align: bottom;}
 nav ul li a {color: white;
     font-family: Noto Sans JP;
-font-size: 50px;
-padding-left: 10%;
-padding-bottom: 200px;}
+font-size: 75px;
+padding-left: 10%;}
+nav ul li{margin-bottom: 80px;}
 nav ul li a:active{color:#6A6F8E ;}
 
 
@@ -61,8 +61,9 @@ width: 100%;}
 padding-bottom: 10px;}
 .message h4{font-size: 32px;
 font-family: Noto Sans JP;}
-.message p {letter-spacing: 1.2px;
-font-size: 12px;}
+.message main p {letter-spacing: 1.2px;
+font-size: 18px;
+line-height: 50px;}
 .message_section1, message_section2 {width: 100%;}
 .message main img {width: 0px;
 }
@@ -73,51 +74,50 @@ padding-top: 80px;
 color: white;
 width: 100%;}
 .message_section2 p {
-line-height: 35px;
-width: 75%;}
+    letter-spacing: 1.2px;
+    font-size: 18px;
+    line-height: 50px;
+width: 85%;}
 .message_section3 {padding-top: 40px;}
 .message_section3 p {width: 90%;
-font-size: 20px;}
-.message_section3 li {font-size: 10px;
-width: 90%;}
+font-size: 18px;}
+.message_section3 li {font-size: 15px;}
 .message footer {margin-top: 50px;}
 
 .message .background_1{
     background-color:#E6E5E1 ;
     width: 100%;
-    height: 550px;
+    height: 1050px;
     position: relative;
-    top: 580px; 
+    top: 1080px; 
     right: 100px;
     z-index: -1;
-    margin-top: -500px;}
+    margin-top: -1000px;}
 .message .background_2{
     background-color:#1E223B ;
     width: 110%;
-    height: 700px;
+    height: 1200px;
     position: relative;
-    top: 730px; 
+    top: 1230px; 
     right: 100px;
     z-index: -1;
-    margin-top: -650px;}
+    margin-top: -1100px;}
 .message .background_3{
     background-color:#E7E9F2 ;
     width: 90%;
-    height: 550px;
+    height: 650px;
     position: relative;
-    top: 650px; 
+    top: 770px; 
     right: 100px;
     z-index: -1;
-    margin-top: -500px;}
+    margin-top: -550px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;
 margin: 0;
 padding-bottom: 20px;}
-.recruit_partner{width: 100%;}
 .recruit_about h3{padding-bottom: 20px;}
 .recruit_partner h3 {padding-bottom: 0px;}
-.recruit p{font-size: 18px;}
 .recruit strong {font-size: 50px;
 font-weight: normal;}
 .recruit_about {margin-bottom: 50px;}
@@ -127,11 +127,11 @@ width: 100%;}
 width: 100%;
 display: inline-block;
 vertical-align: top;
-font-size: medium;
+font-size: 18px;
 margin: 0;}
 .recruit_list ul {
 display: inline-block;
-font-size: medium;}
+font-size: 15px;}
 .recruit_list li{line-height: 25px;
 font-size: 18px;} 
 .recruit .background {
@@ -170,12 +170,13 @@ margin-bottom: -270px;}
 { height: 100%;
 width: 100%;
 padding: 20px;}
+.company_mission{padding-left: 0;}
 .grid_1{display: grid;
     grid-template-columns: repeat(2,1fr);
 margin: 0;}
 .company_vision{padding-left :50px;
 padding-bottom :10px;
-width: 90%;
+width: 100%;
 background-color: #E7E9F2;
 height: 100%;}
 .company_value {
@@ -301,21 +302,20 @@ line-height:35px ;}
     font-weight: 300;}
 .top_service{margin-left: 50px;}
 .top_service li {border:1px solid #E6E5E1;
-font-size: 32px;
+font-size: 28px;
 text-align: center;
 font-family: Noto Sans JP;
 margin-right: 20px;
 margin-bottom: 40px;
 padding: 10px;}
 .top_service ul{display: grid;
-    grid-template-columns: repeat(3, 1fr);
-width: 100%;}
+    grid-template-columns: repeat(3, 1fr);}
 .top_service button {background-color: white;
     border:0.5px solid #E6E5E1;
 width: 200px;
 height:60px ;
 font-family: Noto Sans JP;
-font-size: 16px;
+font-size: 18px;
 letter-spacing: 3px;}
 .top_service button a{color: #1E223B;}
 button:active{background-color: #1E223B;
@@ -325,6 +325,7 @@ height: 200px;
 margin-top: 30px;
 margin-bottom: 30px;
 margin-left: 5px;}
+.top_service p{margin-top: 10px;}
 
 .contact main a{font-family: Noto Sans JP;
     font-size: 20px;
@@ -380,8 +381,8 @@ padding-left:10px ;}
     content: '';
     display: block;
     height: 3px;
-    width: 25px;
-    border-radius: 3px;
+    width: 40px;
+    border-radius: 5px;
     background: white;
     transition: 0.5s;
     position: absolute;

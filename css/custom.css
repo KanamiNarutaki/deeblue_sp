@@ -13,7 +13,7 @@ margin: 0px;
 margin-top: 100px;
 font-family: helvetica;
 font-weight: normal;}
-h2 {font-size: 12px;
+h2 {font-size: 15px;
 margin: 5px;
 margin-bottom: 50px;
 font-family: Noto Sans JP;
@@ -114,13 +114,14 @@ width: 90%;}
 font-size: 30px;
 margin: 0;
 padding-bottom: 20px;}
+.recruit_partner{width: 100%;}
 .recruit_about h3{padding-bottom: 20px;}
 .recruit_partner h3 {padding-bottom: 0px;}
 .recruit p{font-size: 18px;}
 .recruit strong {font-size: 50px;
 font-weight: normal;}
 .recruit_about {margin-bottom: 50px;}
-.recruit_list {margin-left: 2%;
+.recruit_list {margin-left: 10px;
 width: 100%;}
 .recruit_list p {
 width: 100%;
@@ -245,13 +246,14 @@ margin-top: 10px;
 margin-bottom: 40px;
 float: left;}
 .service_sns {
-width: 200px;
-float: left;}
+width: 300px;
+float: left;
+margin-left: 10px;}
 .service_sns li {display: grid;
-    grid-template-columns: repeat(3, 20px);
+    grid-template-columns: repeat(3, 32px);
 float: left;}
-.service_sns li img {width: 40px;
-height: 40px;}
+.service_sns li img {width: 60px;
+height: 60px;}
 .service_sns li:active{opacity: 0.7;}
 .service .background_1 {
     background-color:#E6E5E1 ;

@@ -8,7 +8,7 @@ li {font-family: Noto Sans JP;}
 a {text-decoration: none;
 color: black;}
 
-h1{font-size: 40px;
+h1{font-size: 50px;
 margin: 0px;
 margin-top: 100px;
 font-family: helvetica;
@@ -67,7 +67,7 @@ line-height: 40px;}
 .message_section1, message_section2 {width: 100%;}
 .message main img {width: 0px;
 }
-.message_left p{width: 85%;}
+.message_left p{width: 95%;}
 
 .message_section2{
 padding-top: 80px;
@@ -298,8 +298,8 @@ line-height:35px ;}
 .top h1{
     margin: 0px;
     margin-top: 50px;
-    font-size: 40px;}
-.top h2 {font-size: 25px;
+    font-size: 50px;}
+.top h2 {font-size: 20px;
     margin: 5px;
     margin-bottom: 80px;}
 .top_service{margin-left: 50px;}

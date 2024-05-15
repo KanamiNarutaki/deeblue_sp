@@ -107,12 +107,12 @@ line-height: 40px;}
 .message .background_3{
     background-color:#E7E9F2 ;
     width: 90%;
-    height: 650px;
+    height: 550px;
     position: relative;
     top: 770px; 
     right: 100px;
     z-index: -1;
-    margin-top: -550px;}
+    margin-top: -350px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;
@@ -135,7 +135,8 @@ margin: 0;}
 .recruit_list ul {
 display: inline-block;}
 .recruit_list li{line-height: 25px;
-font-size: 18px;} 
+font-size: 18px;}
+.recruit_list div{padding-top: 5px;} 
 .recruit .background {
     background-color:#E7E9F2 ;
     width: 95%;
@@ -152,7 +153,8 @@ font-size: 18px;}
 font-weight: none;
 margin:5px;
 font-family: Noto Sans JP;
-font-weight: normal;}
+font-weight: normal;
+padding: 0;}
 .company h4 {font-family: Noto Sans JP;
 font-size :58px ;
 margin:5px ;}
@@ -330,20 +332,20 @@ margin-left: 5px;}
 .top_service p{margin-top: 10px;}
 
 .contact main a{font-family: Noto Sans JP;
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: underline;
     color: #2D3251;}
 .contact_phone p {display: inline-block;
 align-items: flex-end;
 color: white;}
 .contact_phone p:first-child
-{font-size: 13px;
+{font-size: 15px;
 padding-left:10px ;}
 .contact_phone p:nth-child(2){
-    font-size:32px ;
+    font-size:38px ;
     text-decoration: underline;}
 .contact_phone p:last-child{
-    font-size: 15px;
+    font-size: 20px;
     padding-left: 200px;}
 .contact_phone .background{
     background-color: #1E223B;

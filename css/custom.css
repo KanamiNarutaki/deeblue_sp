@@ -91,7 +91,7 @@ line-height: 40px;}
     width: 100%;
     height: 1050px;
     position: relative;
-    top: 1080px; 
+    top: 1000px; 
     right: 100px;
     z-index: -1;
     margin-top: -1000px;}
@@ -109,7 +109,7 @@ line-height: 40px;}
     width: 90%;
     height: 650px;
     position: relative;
-    top: 750px; 
+    top: 720px; 
     right: 100px;
     z-index: -1;
     margin-top: -400px;}
@@ -350,7 +350,7 @@ padding-left:10px ;}
     padding-left: 150px;}
 .contact_phone .background{
     background-color: #1E223B;
-    width:80% ;
+    width:90% ;
     height: 80px;
     position: relative;
     top: 90px; 

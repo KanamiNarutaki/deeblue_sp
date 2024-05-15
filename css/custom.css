@@ -8,12 +8,12 @@ li {font-family: Noto Sans JP;}
 a {text-decoration: none;
 color: black;}
 
-h1{
+h1{font-size: 40px;
 margin: 0px;
 margin-top: 100px;
 font-family: helvetica;
 font-weight: normal;}
-h2 {
+h2 {font-size: 25px;
 margin: 5px;
 margin-bottom: 50px;
 font-family: Noto Sans JP;
@@ -95,7 +95,7 @@ padding-top: 5px;}
     top: 1100px; 
     right: 100px;
     z-index: -1;
-    margin-top: -1100px;}
+    margin-top: -950px;}
 .message .background_2{
     background-color:#1E223B ;
     width: 110%;
@@ -205,7 +205,7 @@ padding: 0;}
     margin-bottom: -30px;
     padding-top: 30px;
 padding-bottom: 10px;}
-.company_value_div {padding-top: 20px;
+.company_value_div {padding-top: 30px;
 padding-right: 10px;}
 .company_value h4 {font-family: Noto Sans JP;
     font-size : 30px;

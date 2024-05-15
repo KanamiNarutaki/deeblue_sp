@@ -133,8 +133,8 @@ vertical-align: top;
 font-size: 20px;
 margin: 0;}
 .recruit_list ul {
-display: inline-block;}
-.recruit_list li{line-height: 25px;
+display: inline-block;
+line-height: 25px;
 font-size: 18px;}
 .recruit_list div{padding-top: 5px;} 
 .recruit .background {

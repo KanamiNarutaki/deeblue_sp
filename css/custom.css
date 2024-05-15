@@ -95,7 +95,7 @@ padding-top: 5px;}
     top: 800px; 
     right: 100px;
     z-index: -1;
-    margin-top: -800px;}
+    margin-top: -700px;}
 .message .background_2{
     background-color:#1E223B ;
     width: 110%;
@@ -205,7 +205,7 @@ padding: 0;}
     margin-bottom: -30px;
     padding-top: 30px;
 padding-bottom: 10px;}
-.company_value_div {padding-top: 40px;
+.company_value_div {padding-top: 38px;
 padding-right: 10px;}
 .company_value h4 {font-family: Noto Sans JP;
     font-size : 30px;

@@ -38,7 +38,7 @@ font-family:serif ;
 padding-left: 50px;
 height: 50px;
 vertical-align: bottom;}
-nav ul li a a {color: white;
+nav ul li a {color: white;
     font-family: Noto Sans JP;
 font-size: 75px;
 padding-left: 10%;}
@@ -90,9 +90,9 @@ padding-top: 5px;}
 .message .background_1{
     background-color:#E6E5E1 ;
     width: 100%;
-    height: 935px;
+    height: 910px;
     position: relative;
-    top:980px; 
+    top:955px; 
     right: 100px;
     z-index: -1;
     margin-top: -900px;}
@@ -101,10 +101,10 @@ padding-top: 5px;}
     width: 110%;
     height: 1000px;
     position: relative;
-    top: 1230px; 
+    top: 1030px; 
     right: 100px;
     z-index: -1;
-    margin-top: -1100px;}
+    margin-top: -800px;}
 .message .background_3{
     background-color:#E7E9F2 ;
     width: 90%;
@@ -166,7 +166,7 @@ padding-top: 80px;
 padding-bottom: 30px;}
 .company main img {position: relative;
 right: -550px;
-top: -320px;
+top: -315px;
 width: 348px;
 height: 216px;
 margin-bottom: -270px;}

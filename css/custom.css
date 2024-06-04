@@ -99,12 +99,12 @@ padding-top: 5px;}
 .message .background_2{
     background-color:#1E223B ;
     width: 110%;
-    height: 1000px;
+    height: 1100px;
     position: relative;
-    top: 1030px; 
+    top: 1130px; 
     right: 100px;
     z-index: -1;
-    margin-top: -800px;}
+    margin-top: -900px;}
 .message .background_3{
     background-color:#E7E9F2 ;
     width: 90%;
@@ -113,14 +113,14 @@ padding-top: 5px;}
     top: 720px; 
     right: 100px;
     z-index: -1;
-    margin-top: -400px;}
+    margin-top: -300px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;
 margin: 0;
 padding-bottom: 20px;}
  h3{padding-bottom: 20px;}
-.recruit_partner, .recruit_about {width: 90%;}
+.recruit_partner, .recruit_about {width: 95%;}
 .recruit_partner h3 {padding-bottom: 0px;}
 .recruit strong {font-size: 50px;
 font-weight: normal;}

@@ -1,6 +1,7 @@
 body
 {background-color: white;
-width: 100%;}
+width: 100%;
+margin: 0;}
 main{padding-left: 50px;}
 
 ul{list-style: none;}
@@ -26,10 +27,10 @@ font-size: 18px;}
 
 nav
 {background-color:#1E223B ;
-height: 115px;
+height: 140px;
 width: 100%}
 
-nav .logo {padding-top: 20px;
+nav .logo {padding-top: 30px;
     width: 100px;
 float: left;}
 nav .logo a{color: white;
@@ -95,7 +96,7 @@ padding-top: 5px;}
     top:955px; 
     right: 100px;
     z-index: -1;
-    margin-top: -900px;}
+    margin-top: -800px;}
 .message .background_2{
     background-color:#1E223B ;
     width: 110%;
@@ -113,7 +114,7 @@ padding-top: 5px;}
     top: 720px; 
     right: 100px;
     z-index: -1;
-    margin-top: -300px;}
+    margin-top: -200px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;
@@ -371,6 +372,7 @@ width: 80%;}
     height: 60px;
     width: 60px;
     padding: 20px;
+    padding-top: 30px;
  margin-left:88%;
     justify-content: center;
     align-items: center;

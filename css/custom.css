@@ -193,7 +193,7 @@ display: grid;
 grid-template-columns: repeat(3, 1fr);
 color: white;
 padding: 0;
-padding-top: 15px;}
+padding-top: 35px;}
 .company .background{
     background-color:#2D3251;
     width: 112%;
@@ -339,14 +339,15 @@ margin-bottom: 30px;
 margin-left: 5px;}
 .top_service p{margin-top: 10px;}
 
-.contact main a{font-family: Noto Sans JP;
+
+.toiawase a{font-family: Noto Sans JP;
     font-size: 30px;
     text-decoration: underline;
     color: #2D3251;}
+.contact_phone a{text-decoration: none;
+        color: white;}
 .contact_phone p {display: inline-block;
 align-items: flex-end;
-color: white;}
-.contact_phone a{text-decoration: none;
 color: white;}
 .contact_phone p:first-child
 {font-size: 20px;

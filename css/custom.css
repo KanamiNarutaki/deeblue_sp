@@ -144,12 +144,12 @@ line-height: 25px;}
 .recruit .background {
     background-color:#E7E9F2 ;
     width: 105%;
-    height: 2280px;
+    height: 2330px;
     position: relative;
-    top: 2305px; 
+    top: 2355px; 
     right: 100px;
     z-index: -1;
-    margin-top: -2305px;
+    margin-top: -2355px;
 }
 
 

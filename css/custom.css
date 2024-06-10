@@ -30,7 +30,7 @@ nav
 height: 140px;
 width: 100%}
 
-nav .logo {padding-top: 30px;
+nav .logo {padding-top: 40px;
     width: 100px;
 float: left;}
 nav .logo a{color: white;
@@ -52,6 +52,7 @@ footer
 color: white;
 margin-top: 150px;
 padding: 5px;
+padding-bottom: 0px;
 text-align: center;
 width: 100%;}
 
@@ -114,7 +115,7 @@ padding-top: 5px;}
     top: 720px; 
     right: 100px;
     z-index: -1;
-    margin-top: -200px;}
+    margin-top: -400px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;
@@ -167,7 +168,7 @@ padding-top: 80px;
 padding-bottom: 30px;}
 .company main img {position: relative;
 right: -550px;
-top: -315px;
+top: -310px;
 width: 348px;
 height: 216px;
 margin-bottom: -270px;}
@@ -196,7 +197,7 @@ padding: 0;}
 .company .background{
     background-color:#2D3251;
     width: 112%;
-    height: 100px;
+    height: 80px;
     padding-top: 350px;
     position: relative;
     top: 430px;
@@ -242,7 +243,7 @@ float: left;
 margin-left: 5%;
 margin-right: 5%;
 width: 52%;
-padding-bottom: 10%;}
+padding-bottom: 8%;}
 .service_beer .service_passage
 {margin-left: 0;}
 .service h3 {font-size: 250%;
@@ -273,21 +274,21 @@ padding-top: 15px;}
 .service .background_1 {
     background-color:#E6E5E1 ;
     width: 110%;
-    height: 450px;
+    height: 465px;
     position: relative;
-    top: 415px; 
+    top: 425px; 
     right: 90px;
     z-index: -1;
     margin-top: -415px;}
     .service .background_2 {
         background-color:#E7E9F2 ;
         width: 110%;
-        height: 500px;
+        height: 490px;
         position: relative;
-        top: 380px; 
+        top: 450px; 
         right: 90px;
         z-index: -1;
-        margin-top: -550px;}
+        margin-top: -500px;}
 
 .top nav ul {padding-top: 30px;}
 .top_intro img{width: 100%;
@@ -345,6 +346,7 @@ margin-left: 5px;}
 .contact_phone p {display: inline-block;
 align-items: flex-end;
 color: white;}
+.contact_phone a{text-decoration: none;}
 .contact_phone p:first-child
 {font-size: 20px;
 padding-left:10px ;}
@@ -372,7 +374,7 @@ width: 80%;}
     height: 60px;
     width: 60px;
     padding: 20px;
-    padding-top: 30px;
+    padding-top: 40px;
  margin-left:88%;
     justify-content: center;
     align-items: center;

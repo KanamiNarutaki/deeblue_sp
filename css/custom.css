@@ -110,12 +110,12 @@ padding-top: 5px;}
 .message .background_3{
     background-color:#E7E9F2 ;
     width: 90%;
-    height: 720px;
+    height: 770px;
     position: relative;
-    top: 780px; 
+    top: 890px; 
     right: 100px;
     z-index: -1;
-    margin-top: -200px;}
+    margin-top: -500px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;
@@ -143,12 +143,12 @@ font-size: 18px;}
 .recruit .background {
     background-color:#E7E9F2 ;
     width: 105%;
-    height: 2000px;
+    height: 2230px;
     position: relative;
-    top: 2020px; 
+    top: 2255px; 
     right: 100px;
     z-index: -1;
-    margin-top: -2020px;
+    margin-top: -2255px;
 }
 
 
@@ -196,10 +196,10 @@ padding: 0;
 padding-top: 35px;}
 .company .background{
     background-color:#2D3251;
-    width: 111%;
+    width: 110.9%;
     height: 420px;
     position: relative;
-    top: -405px;
+    top: -355px;
     right: 100px;
     z-index: -1;}
 .company_value h3{

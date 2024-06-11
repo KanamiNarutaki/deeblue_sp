@@ -115,7 +115,7 @@ padding-top: 5px;}
     top: 890px; 
     right: 100px;
     z-index: -1;
-    margin-top: -400px;}
+    margin-top: -550px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;
@@ -144,12 +144,12 @@ line-height: 25px;}
 .recruit .background {
     background-color:#E7E9F2 ;
     width: 105%;
-    height: 2330px;
+    height: 2300px;
     position: relative;
-    top: 2355px; 
+    top: 2325px; 
     right: 100px;
     z-index: -1;
-    margin-top: -2355px;
+    margin-top: -2350px;
 }
 
 
@@ -193,8 +193,7 @@ padding-right: 0px;}
 display: grid;
 grid-template-columns: repeat(3, 1fr);
 color: white;
-padding: 0;
-padding-top: 15px;}
+padding: 0;}
 .company .background{
     background-color:#2D3251;
     width: 110.9%;
@@ -232,8 +231,8 @@ height: 100%; }
 
 .service main img {width: 300px;
 height: 300px;
-float: left;
-padding-top: 40px;}
+float: left;}
+.service_bbq img {padding-top: 40px;}
 .service main img:nth-child(2)
 {padding-top: 65px;}
 .service_bridal img
@@ -284,9 +283,9 @@ padding-top: 15px;}
     .service .background_2 {
         background-color:#E7E9F2 ;
         width: 110%;
-        height: 475px;
+        height: 485px;
         position: relative;
-        top: 450px; 
+        top: 445px; 
         right: 90px;
         z-index: -1;
         margin-top: -500px;}

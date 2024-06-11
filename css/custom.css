@@ -62,7 +62,9 @@ width: 100%;}
     margin: 0px;
 padding-bottom: 10px;}
 .message h4{font-size: 38px;
-font-family: Noto Sans JP;}
+font-family: Noto Sans JP;
+margin-bottom: 0px;
+}
 .message main p {letter-spacing: 1.2px;
 font-size: 20px;
 line-height: 40px;}
@@ -115,7 +117,7 @@ padding-top: 5px;}
     top: 890px; 
     right: 100px;
     z-index: -1;
-    margin-top: -550px;}
+    margin-top: -700px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;
@@ -149,7 +151,7 @@ line-height: 25px;}
     top: 2325px; 
     right: 100px;
     z-index: -1;
-    margin-top: -2350px;
+    margin-top: -2200px;
 }
 
 
@@ -285,7 +287,7 @@ padding-top: 15px;}
         width: 110%;
         height: 485px;
         position: relative;
-        top: 445px; 
+        top: 455px; 
         right: 90px;
         z-index: -1;
         margin-top: -500px;}
@@ -312,8 +314,7 @@ line-height:35px ;}
     margin-top: 50px;
     font-size: 40px;}
 .top h2 {font-size: 23px;
-    margin: 5px;
-    margin-bottom: 50px;}
+    margin-right: 0px;}
 .top_service{margin-left: 50px;}
 .top_service li {border:1px solid #E6E5E1;
 font-size: 28px;

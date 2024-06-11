@@ -196,7 +196,8 @@ padding-right: 0px;}
 display: grid;
 grid-template-columns: repeat(3, 1fr);
 color: white;
-padding: 0;}
+padding: 0;
+padding-top: 10px;}
 .company .background{
     background-color:#2D3251;
     width: 110.9%;

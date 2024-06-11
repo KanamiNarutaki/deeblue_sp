@@ -18,7 +18,8 @@ h2, .recruit h2{font-size: 25px;
 margin: 5px;
 margin-bottom: 50px;
 font-family: Noto Sans JP;
-font-weight: 300;}
+font-weight: 300;
+margin-right: 0px;}
 p{font-family: Noto Sans JP;
     line-height: 30px;
 font-size: 18px;}
@@ -151,7 +152,7 @@ line-height: 25px;}
     top: 2325px; 
     right: 100px;
     z-index: -1;
-    margin-top: -2200px;
+    margin-top: -2150px;
 }
 
 
@@ -201,7 +202,7 @@ padding: 0;}
     width: 110.9%;
     height: 420px;
     position: relative;
-    top: -355px;
+    top: -335px;
     right: 100px;
     z-index: -1;}
 .company_value h3{
@@ -313,8 +314,7 @@ line-height:35px ;}
     margin: 0px;
     margin-top: 50px;
     font-size: 40px;}
-.top h2 {font-size: 23px;
-    margin-right: 0px;}
+.top h2 {font-size: 23px;}
 .top_service{margin-left: 50px;}
 .top_service li {border:1px solid #E6E5E1;
 font-size: 28px;

@@ -148,12 +148,12 @@ display: inline-block;
 .recruit .background {
     background-color:#E7E9F2 ;
     width: 105%;
-    height: 2150px;
+    height: 2250px;
     position: relative;
-    top: 2175px; 
+    top: 2275px; 
     right: 100px;
     z-index: -1;
-    margin-top: -2150px;
+    margin-top: -2250px;
 }
 
 

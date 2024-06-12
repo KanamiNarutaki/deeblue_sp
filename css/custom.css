@@ -190,7 +190,7 @@ background-color: #E7E9F2;
 height: 100%;
 z-index: -2;
 padding-right: 0px;}
-.grid_1 p{font-size: 25px;}
+.grid_1 p{font-size: 24px;}
 .company_value p {font-size: 20px;}
 .company_value {
     width: 100%;
@@ -202,7 +202,7 @@ padding-top: 10px;}
 .company .background{
     background-color:#2D3251;
     width: 110.9%;
-    height: 420px;
+    height: 410px;
     position: relative;
     top: -335px;
     right: 100px;

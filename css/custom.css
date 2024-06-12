@@ -136,11 +136,11 @@ width: 100%;}
 width: 100%;
 display: inline-block;
 vertical-align: top;
-font-size: 20px;
+font-size: 22px;
 margin: 0;}
-.recruit_list li {  text-size-adjust: 100%;
+.recruit_list li {
     -webkit-text-size-adjust: 100%;
-    font-size: 20px;}
+    font-size: 22px;}
 .recruit_list ul {
 display: inline-block;
 line-height: 25px;}

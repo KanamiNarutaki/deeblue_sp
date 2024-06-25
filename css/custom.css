@@ -72,18 +72,19 @@ line-height: 40px;}
 .message_section1, message_section2 {width: 100%;}
 .message main img {width: 0px;
 }
-.message_left p{width: 95%;}
+.message_left p{width: 90%;}
 
 .message_section2{
 padding-top: 80px;
+padding-left: 50px;
 color: white;
-width: 100%;}
+width: 85%;}
 .message_section2 p {
     letter-spacing: 1.2px;
     font-size: 20px;
-    line-height: 40px;
-width: 85%;}
-.message_section3 {padding-top: 40px;}
+    line-height: 40px;}
+.message_section3 {padding-top: 40px;
+padding-bottom: 50px;}
 .message_section3 p {width: 90%;
     letter-spacing: 1.2px;
 font-size: 20px;
@@ -94,7 +95,7 @@ padding-top: 5px;}
 
 .message .background_1{
     background-color:#E6E5E1 ;
-    width: 100%;
+    width: 105%;
     height: 910px;
     position: relative;
     top:955px; 
@@ -103,16 +104,16 @@ padding-top: 5px;}
     margin-top: -800px;}
 .message .background_2{
     background-color:#1E223B ;
-    width: 110%;
+    width: 100%;
     height: 1100px;
     position: relative;
     top: 1130px; 
-    right: 100px;
+    right: 00px;
     z-index: -1;
     margin-top: -1000px;}
 .message .background_3{
     background-color:#E7E9F2 ;
-    width: 95%;
+    width: 105%;
     height: 770px;
     position: relative;
     top: 890px; 

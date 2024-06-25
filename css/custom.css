@@ -84,7 +84,7 @@ width: 85%;}
     font-size: 20px;
     line-height: 40px;}
 .message_section3 {padding-top: 40px;
-padding-bottom: 100px;}
+padding-bottom: 200px;}
 .message_section3 p {width: 90%;
     letter-spacing: 1.2px;
 font-size: 20px;
@@ -98,7 +98,7 @@ padding-top: 5px;}
     width: 105%;
     height: 940px;
     position: relative;
-    top:955px; 
+    top:965px; 
     right: 100px;
     z-index: -1;
     margin-top: -840px;}
@@ -268,6 +268,8 @@ margin-top: 20px;
 margin-bottom: 40px;
 margin-right: 25px;
 float: left;}
+.service button:nth-child(1)
+{width: 170px;}
 .service_sns {
 margin-left: 10px;}
 .service_sns li {display: grid;
@@ -279,7 +281,7 @@ padding-top: 15px;}
 .service_sns li:active{opacity: 0.7;}
 .service .background_1 {
     background-color:#E6E5E1 ;
-    width: 105%;
+    width: 103%;
     height: 465px;
     position: relative;
     top: 425px; 
@@ -288,7 +290,7 @@ padding-top: 15px;}
     margin-top: -415px;}
     .service .background_2 {
         background-color:#E7E9F2 ;
-        width: 105%;
+        width: 103%;
         height: 485px;
         position: relative;
         top: 455px; 

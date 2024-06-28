@@ -96,12 +96,12 @@ padding-top: 5px;}
 .message .background_1{
     background-color:#E6E5E1 ;
     width: 105%;
-    height: 980px;
+    height: 1000px;
     position: relative;
-    top:1020px; 
+    top:1000px; 
     right: 100px;
     z-index: -1;
-    margin-top: -920px;}
+    margin-top: -940px;}
 .message .background_2{
     background-color:#1E223B ;
     width: 100%;
@@ -116,7 +116,7 @@ padding-top: 5px;}
     width: 105%;
     height: 750px;
     position: relative;
-    top: 870px; 
+    top: 850px; 
     right: 100px;
     z-index: -1;
     margin-top: -670px;}

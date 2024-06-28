@@ -76,7 +76,7 @@ line-height: 40px;}
 
 .message_section2{
 padding-top: 80px;
-padding-left: 50px;
+padding-left: 70px;
 color: white;
 width: 85%;}
 .message_section2 p {
@@ -96,12 +96,12 @@ padding-top: 5px;}
 .message .background_1{
     background-color:#E6E5E1 ;
     width: 105%;
-    height: 940px;
+    height: 960px;
     position: relative;
-    top:965px; 
+    top:1000px; 
     right: 100px;
     z-index: -1;
-    margin-top: -840px;}
+    margin-top: -900px;}
 .message .background_2{
     background-color:#1E223B ;
     width: 100%;
@@ -116,10 +116,10 @@ padding-top: 5px;}
     width: 105%;
     height: 750px;
     position: relative;
-    top: 870px; 
+    top: 890px; 
     right: 100px;
     z-index: -1;
-    margin-top: -650px;}
+    margin-top: -670px;}
 
 .recruit h3{font-family: Noto Sans JP;
 font-size: 30px;

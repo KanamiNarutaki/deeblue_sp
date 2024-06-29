@@ -62,10 +62,6 @@ width: 100%;}
     font-family: Noto Sans JP;
     margin: 0px;
 padding-bottom: 10px;}
-.message h4{font-size: 38px;
-font-family: Noto Sans JP;
-margin-bottom: 0px;
-}
 .message main p {letter-spacing: 1.2px;
 font-size: 20px;
 line-height: 40px;}
@@ -114,9 +110,9 @@ padding-top: 5px;}
 .message .background_3{
     background-color:#E7E9F2 ;
     width: 105%;
-    height: 750px;
+    height: 800px;
     position: relative;
-    top: 870px; 
+    top: 880px; 
     right: 100px;
     z-index: -1;
     margin-top: -650px;}
